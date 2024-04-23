@@ -1,11 +1,19 @@
 {
-  "name": "pdf_viewer",
-  "version": "1.0.0",
+  "name": "@pranabkc/pdf_viewer",
+  "version": "1.0.3",
   "description": "A simple pdf viewer with pdf.js",
-  "main": "index.js",
+  "main": "pdfView.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PranabZz/pdfViewer.git"
+  },
+  "keywords": [
+    "pdf_view"
+  ],
+  "author": "Web Dev Simplified",
+  "license": "ISC",
+  "homepage": "https://github.com/PranabZz/pdfViewer.git#readme"
 }
