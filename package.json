@@ -1,6 +1,6 @@
 {
   "name": "@pranabkc/pdf_viewer",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple pdf viewer with pdf.js",
   "main": "pdfView.js",
   "scripts": {
